@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+img{
+    align-items: center;
+    margin-left: 25%;
+    margin-right: auto;
+}
+p{
+    text-align: justify;
+    text-align:start;
+    color:cornsilk;
+}
+body{
+    background-color: black;
+}
